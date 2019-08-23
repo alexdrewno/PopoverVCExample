@@ -13,7 +13,7 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController providesPresentationContextTransitionStyle="YES" id="BYZ-38-t0r" customClass="ViewController" customModule="PopoverVCExample" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="PopoverVCExample" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -41,6 +41,7 @@
         <!--Popover View Controller-->
         <scene sceneID="Vta-yI-gut">
             <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="uON-mx-Nns" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController storyboardIdentifier="popoverVC" id="Eeh-MR-j5X" customClass="PopoverViewController" customModule="PopoverVCExample" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="syC-WD-mGq">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
@@ -64,7 +65,6 @@
                         <outlet property="popoverDimmedView" destination="P9O-ZN-WCf" id="hEe-50-8p8"/>
                     </connections>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="uON-mx-Nns" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="773.91304347826087" y="41.517857142857139"/>
         </scene>
