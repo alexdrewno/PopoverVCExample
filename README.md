@@ -1,6 +1,8 @@
 # PopoverVCExample
 
-![](https://github.com/kirbec/PopoverVCExample/blob/master/PopoverVCExampleAssets/example.gif)
+<kbd>
+  <img src="https://github.com/kirbec/PopoverVCExample/blob/master/PopoverVCExampleAssets/example.gif">
+</kbd>
 
 1.) Create a second ViewController (This will be your PopoverVC) and set the background color to black with opacity 20% (you can change this to whatever color/opacity you like, but this is my preference).
 
@@ -10,7 +12,7 @@
 
 ![](https://github.com/kirbec/PopoverVCExample/blob/master/PopoverVCExampleAssets/view2.png)
 
-3.) Add the storyboard id to the PopoverVC ("in this case it is popoverVC").
+3.) Add the storyboard id to the PopoverVC (in this case it is "popoverVC").
 ![](https://github.com/kirbec/PopoverVCExample/blob/master/PopoverVCExampleAssets/identifier.png)
 
 4.) This is the presentation code (Add this to a button or wherever you'd like to present this VC from).
