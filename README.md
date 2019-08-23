@@ -1,4 +1,4 @@
-# PopoverVCExample
+# PopoverViewController Example
 
 <kbd>
   <img src="https://github.com/kirbec/PopoverVCExample/blob/master/PopoverVCExampleAssets/example.gif">
