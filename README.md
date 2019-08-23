@@ -2,10 +2,7 @@
 
 <kbd>
   <img src="https://github.com/kirbec/PopoverVCExample/blob/master/PopoverVCExampleAssets/example.gif">
-</kbd>
-
-
-
+</kbd><br><br>
 
 1.) Create a second ViewController (This will be your PopoverVC) and set the background color to black with opacity 20% (you can change this to whatever color/opacity you like, but this is my preference).
 
